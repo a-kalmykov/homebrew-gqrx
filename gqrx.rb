@@ -2,7 +2,7 @@ require "formula"
 
 class Gqrx < Formula
   homepage "http://gqrx.dk"
-  url "https://github.com/csete/gqrx/archive/v2.4.tar.gz"
+  url "https://github.com/csete/gqrx/releases/download/v2.10/gqrx-sdr-2.10-src.tar.xz"
   sha256 "4c561083b3da9423c017ea4fbe7e12fedb0ba7c2065c17b8ac8a0f5403a5da9b"
  
   head "https://github.com/csete/gqrx.git"
